@@ -3,7 +3,62 @@ guid: 98ec54c0f3ab2fe4ebd7ed07637269a9
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bracelete
+    second: {fileID: 2100000, guid: 21f911c132094bc41815f214367cbb9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Braco
+    second: {fileID: 2100000, guid: 0465e80872423ea4aa4df06ca82cb440, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabeca
+    second: {fileID: 2100000, guid: dc9e12a1d15b39f4cbf21f55208c4344, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Calca
+    second: {fileID: 2100000, guid: 430997004c5fdea4b97177cd7bb45f98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Camisa
+    second: {fileID: 2100000, guid: 2a164c27aed14b048bb992bbde0f208b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cinto00
+    second: {fileID: 2100000, guid: ff7877a568a2d584ca28da91b5cd8c6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cinto01
+    second: {fileID: 2100000, guid: 5e8811cb869670b4786d9ef5b1ebf0c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gorro
+    second: {fileID: 2100000, guid: 7fb7ad4733d830141bc543b3fc570d74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair
+    second: {fileID: 2100000, guid: 234783f2210103b46b67deb07a5ec65a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaqueta
+    second: {fileID: 2100000, guid: 45e980617f0fd36419b24521eb914fe1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sapato
+    second: {fileID: 2100000, guid: 77b867638c8c3dc478c79712f3c67f2f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-420431259591633169
+--- !u!114 &-4364992523477733965
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,12 +20,11 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Cabelo
+  m_Name: Sapato
   m_Shader: {fileID: 4800000, guid: 3db508634100cb44e82e275256c858e0, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords:
-  - TCP2_SPECULAR
+  m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -38,7 +37,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 68930ca67073241418a9a2e7ff2e4cb5, type: 3}
+        m_Texture: {fileID: 2800000, guid: 44aaaf5aced60b545830c46321041dd6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -121,24 +120,24 @@ Material:
     - _Parallax: 0.005
     - _QueueOffset: 0
     - _RampSmoothing: 0.001
-    - _RampThreshold: 0.257
+    - _RampThreshold: 0.622
     - _ReceiveShadows: 1
     - _ReceiveShadowsOff: 1
     - _RimMax: 1
     - _RimMin: 0.5
-    - _Shadow_HSV_H: -15
-    - _Shadow_HSV_S: 0.163
-    - _Shadow_HSV_V: 0.253
+    - _Shadow_HSV_H: -8
+    - _Shadow_HSV_S: 0
+    - _Shadow_HSV_V: 0.017
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _SpecularToonSize: 0.186
-    - _SpecularToonSmoothness: 0.239
+    - _SpecularToonSize: 0.25
+    - _SpecularToonSmoothness: 0.05
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
     - _Surface: 0
     - _UseRim: 0
-    - _UseSpecular: 1
+    - _UseSpecular: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
     - __BeginGroup_ShadowHSV: 0
@@ -149,10 +148,10 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Emission: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _HColor: {r: 0.90588236, g: 0.90588236, b: 0.90588236, a: 1}
+    - _HColor: {r: 0.9150943, g: 0.9150943, b: 0.9150943, a: 1}
     - _RimColor: {r: 0.8, g: 0.8, b: 0.8, a: 0.5}
     - _RimDir: {r: 0, g: 0, b: 1, a: 1}
     - _SColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _SpecularColor: {r: 0.4716981, g: 0.4522675, b: 0.45167318, a: 1}
+    - _SpecularColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   m_BuildTextureStacks: []

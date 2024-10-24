@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 948a4f912473b764fbd7a8727077e8d0
+guid: df793159eaecdf24eaa56adae8024df4
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,23 +7,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Mineral1
-    second: {fileID: 2100000, guid: 87f314763f8811d4f90832042d0ca96d, type: 2}
+      name: Base
+    second: {fileID: 2100000, guid: 339262f78e3e03c4a948d6637d554cd9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Mineral2
-    second: {fileID: 2100000, guid: 575a0a5781391bc4695c0003d44c47e1, type: 2}
+      name: Bricks
+    second: {fileID: 2100000, guid: ea7f3543dc257f74c81c0bffa5ade3e1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Mineral3
-    second: {fileID: 2100000, guid: efef27a12c4434f4ebe812ff897bbc4a, type: 2}
+      name: Dark
+    second: {fileID: 2100000, guid: 826d713baeb068341b593b1263550f96, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Rock
-    second: {fileID: 2100000, guid: 3eff676cd70564f42a70afc19e5436bb, type: 2}
+      name: Floor
+    second: {fileID: 2100000, guid: 1f7aef2457f9c4d45870a9a308a1aea4, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
