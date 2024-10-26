@@ -132,7 +132,7 @@ Material:
     - _RippleStrength: 83.62
     - _SecondaryFoamBlend: 0.06
     - _SkyboxForce: 2.5
-    - _Steps: 50
+    - _Steps: 54.8
     - _SurfaceFoamDirection: 0
     - _SurfaceFoamDistorsion: 0.38
     - _SurfaceFoamSpeed: 0
